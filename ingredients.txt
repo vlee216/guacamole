@@ -1,4 +1,2 @@
 
-avocado
-lime
-salt
+avocado lime salt cilantro
